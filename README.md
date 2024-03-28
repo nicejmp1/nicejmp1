@@ -14,8 +14,6 @@
     <a href="https://www.instagram.com/jj_m_park"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </div>
 
-
-## 🦾 Technolgies and Tools I use:
 <h2 align="left">## ⚒️ Techonolgies and Tools I Use ##</h3>
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")
