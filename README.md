@@ -11,7 +11,8 @@
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:a01063363854@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
     <a href="https://"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"></a>
-    <a href="https://www.instagram.com/jj_m_park"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a><a href="https://nicejmp1.github.io/"><img src="https://img.shields.io/badge/Githubblog-181717?style=for-the-badge&logo=github&logoColor=white"></a></div>
+    <a href="https://www.instagram.com/jj_m_park"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://nicejmp1.github.io/"><img src="https://img.shields.io/badge/Githubblog-181717?style=for-the-badge&logo=github&logoColor=white"></a></div>
   
 <h2 alifn="left"> 📁 2024.03.18 ~ ing 📁 </h2>
 [메인페이지] : (https://nicejmp1.github.io/class2024/)<br><br>
