@@ -33,4 +33,6 @@
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicejmp1&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicejmp1&show_icons=true&theme=radical) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicejmp1&layout=compact)
+
