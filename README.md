@@ -7,7 +7,13 @@
 <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&random=false&width=700&lines=Hello.+I+am+Studying+to+become+a+Front-end+web+developer." alt="Typing SVG" /></a>
 </h2></div>
 
-## 📱 Let's get connected    
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:nicejpm@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+    <a href="https://"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"></a>
+    <a href="https://www.instagram.com/j_m_park"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+</div>
+
 
 ## 🦾 Technolgies and Tools I use:
 <h2 align="left">## ⚒️ Techonolgies and Tools I Use ##</h3>
