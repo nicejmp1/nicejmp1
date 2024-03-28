@@ -1,10 +1,16 @@
-# Hello   
-안녕하세요! 만나서 반갑습니다.
-프론트엔드 웹 개발자로 성장 중인 박정민 입니다.
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
+
+# Hello 
+<div align="center">
+<h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&random=false&width=700&lines=Hello.+I+am+Studying+to+become+a+Front-end+web+developer." alt="Typing SVG" /></a>
+</h2></div>
 
 ## 📱 Let's get connected    
 
 ## 🦾 Technolgies and Tools I use:
+<h2 align="left">## ⚒️ Techonolgies and Tools I Use ##</h3>
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")
 ![React](https://img.shields.io/badge/React-2023/2A?style=for-the-badge&logo=react&logoColor=61DAFB")
