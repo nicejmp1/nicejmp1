@@ -11,10 +11,16 @@
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:a01063363854@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
     <a href="https://"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"></a>
-    <a href="https://www.instagram.com/jj_m_park"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-</div>
+    <a href="https://www.instagram.com/jj_m_park"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a></div><br>
+  
+<h2 alifn="left"> 📁 2024.03.18 ~ ing 📁 </h2>
+[메인페이지] : (https://nicejmp1.github.io/class2024/)<br><br>
+[자바스크립트] (https://nicejmp1.github.io/class2024/javascript/index.html)<br><br>
+[MySQL] (https://nicejmp1.github.io/class2024/mysql/index.html) <br><br>
+[퀴즈게임] (https://nicejmp1.github.io/class2024/quiz/index.html)
 
-<h2 align="left">## ⚒️ Techonolgies and Tools I Use ##</h3>
+  
+<h2 align="left"> ⚒️ Techonolgies and Tools I Use ⚒️ </h2>
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")
 ![React](https://img.shields.io/badge/React-2023/2A?style=for-the-badge&logo=react&logoColor=61DAFB")
