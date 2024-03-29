@@ -2,7 +2,7 @@
   <img src="https://github.com/nicejmp1/nicejmp1/assets/163364733/5b7c2a40-70d2-4728-aed8-5cc2faa46f4d" />
 </div>
 
-# Hello 
+# 🌈 Hello 
 <div align="center">
 <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&random=false&width=700&lines=Hello.+I+am+Studying+to+become+a+Front-end+web+developer." alt="Typing SVG" /></a>
 </h2></div>
