@@ -7,7 +7,7 @@
 <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&random=false&width=700&lines=Hello.+I+am+Studying+to+become+a+Front-end+web+developer." alt="Typing SVG" /></a>
 </h2></div>
 
-## 📞 Contact 📞
+## 📞 Contact 
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:a01063363854@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
     <a href="https://"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"></a>
@@ -20,6 +20,10 @@
 [MySQL] (https://nicejmp1.github.io/class2024/mysql/index.html) <br><br>
 [퀴즈게임] (https://nicejmp1.github.io/class2024/quiz/index.html)
 
+<h2 alift="left">🎉 PROJECTS</h2>
+[Chapter1]   
+[Chapter2]
+[Chapter3]
   
 <h2 align="left"> ⚒️ Techonolgies and Tools I Use ⚒️ </h2>
 
