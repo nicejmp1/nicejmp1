@@ -21,9 +21,9 @@
 [퀴즈게임] (https://nicejmp1.github.io/class2024/quiz/index.html)
 
 <h2 alift="left">🎉 PROJECTS</h2>
-[Chapter1]   
-[Chapter2]
-[Chapter3]
+<p>[Chapter1]</p>   
+<p>[Chapter2]</p> 
+<p>[Chapter3]</p> 
   
 <h2 align="left"> ⚒️ Techonolgies and Tools I Use ⚒️ </h2>
 
