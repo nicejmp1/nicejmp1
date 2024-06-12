@@ -19,6 +19,8 @@
 [자바스크립트] (https://nicejmp1.github.io/class2024/javascript/index.html)<br><br>
 [MySQL] (https://nicejmp1.github.io/class2024/mysql/index.html) <br><br>
 [퀴즈게임] (https://nicejmp1.github.io/class2024/quiz/index.html)
+[GitHub블로그] (https://nicejmp1.github.io/)
+[PHP 블로그] (http://nicejmp1.dothome.co.kr/main/main.php)
 
 <h2 alift="left">🎉 PROJECTS</h2>
 <p>[PHP - 마라톤 대회 일정 커뮤니티 사이트]: (https://github.com/nicejmp1/Way-Run-Meaning)</p>  
