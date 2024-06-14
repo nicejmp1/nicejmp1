@@ -21,10 +21,14 @@
 [퀴즈게임] (https://nicejmp1.github.io/class2024/quiz/index.html) <br><br>
 [GitHub블로그] (https://nicejmp1.github.io/) <br><br>
 [PHP 블로그] (http://nicejmp1.dothome.co.kr/main/main.php) <br><br>
+[Web레이아웃] (https://nicejmp1.github.io/class2024/webd/index.html) <br><br>
+[CSS애니메이션] (https://nicejmp1.github.io/class2024/css/index.html) <br><br>
+[GSAP] (https://nicejmp1.github.io/class2024/effect/index.html) <br><br>
+[MyQuiz] (https://nicejmp1.github.io/class2024/Myquiz/quizGame.html) <br><br>
 
 <h2 alift="left">🎉 PROJECTS</h2>
 <p>[PHP - 마라톤 대회 일정 커뮤니티 사이트]: (https://github.com/nicejmp1/Way-Run-Meaning)</p>  
-<p>[React - 치킨 브랜드 모음 사이트] : (https://github.com/nicejmp1/chiken) </p> 
+<p>[React - 치킨 브랜드 모음 사이트] : ([https://github.com/nicejmp1/chiken](https://chiken-nine.vercel.app/)) </p> 
 <p>[Chapter3]</p> 
   
 <h2 align="left"> ⚒️ Techonolgies and Tools I Use ⚒️ </h2>
