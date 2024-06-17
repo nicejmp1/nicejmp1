@@ -29,7 +29,8 @@
 <h2 alift="left">🎉 PROJECTS</h2>
 <p>[PHP - 마라톤 대회 일정 커뮤니티 사이트]: (https://github.com/nicejmp1/Way-Run-Meaning)</p>  
 <p>[React - 치킨 브랜드 모음 사이트] : (https://chiken-nine.vercel.app/) </p> 
-<p>[Chapter3]</p> 
+<p>[youtubeAPI 1] : (https://playlistyoutube.netlify.app) </p> 
+<p>[youtubeAPI 2] : (https://musicchart.netlify.app/)</p> 
 
 <h2 alift="left">🎉 PROJECTS Code</h2>
 <p>[PHP - 마라톤 대회 일정 커뮤니티 사이트]: (https://github.com/nicejmp1/Way-Run-Meaning)</p>  
