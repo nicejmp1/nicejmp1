@@ -34,7 +34,7 @@
 <p>[Vue_Movie] : (https://movie-world-list.netlify.app/)</p> 
 
 
-<h2 alift="left">🎉 PROJECTS Code</h2>
+<h2 alift="left">🎉 GitHub Code View</h2>
 <p>[PHP - 마라톤 대회 일정 커뮤니티 사이트]: (https://github.com/nicejmp1/Way-Run-Meaning)</p>  
 <p>[React - 치킨 브랜드 모음 사이트] : (https://github.com/nicejmp1/chiken) </p> 
 <p>[YoutueAPI 1] : (https://github.com/nicejmp1/youtubeplay) </p> 
