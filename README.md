@@ -27,11 +27,13 @@
 [MyQuiz] (https://nicejmp1.github.io/class2024/Myquiz/quizGame.html) <br><br>
 
 <h2 alift="left">🎉 PROJECTS</h2>
-<p>[PHP - 마라톤 대회 일정 커뮤니티 사이트]: (https://github.com/nicejmp1/Way-Run-Meaning)</p>  
-<p>[React - 치킨 브랜드 모음 사이트] : (https://chiken-nine.vercel.app/) </p> 
-<p>[youtubeAPI 1] : (https://playlistyoutube.netlify.app) </p> 
-<p>[youtubeAPI 2] : (https://musicchart.netlify.app/)</p> 
-<p>[Vue_Movie] : (https://movie-world-list.netlify.app/)</p> 
+<span> [PHP - 마라톤 대회 일정 커뮤니티 사이트]: (https://github.com/nicejmp1/Way-Run-Meaning) </span>  <br><br>
+<span> [React - 치킨 브랜드 모음 사이트] : (https://chiken-nine.vercel.app/) </span><br>
+<img alt="React" src= "https://img.shields.io/badge/React-2023/2A?style=for-the-badge&logo=react&logoColor=61DAFB"  height="25px" />
+
+<span> [youtubeAPI 1] : (https://playlistyoutube.netlify.app) </span> <br><br>
+<span> [youtubeAPI 2] : (https://musicchart.netlify.app/)</span> <br><br>
+<span> [Vue_Movie] : (https://movie-world-list.netlify.app/)</span> <br><br>
 
 
 <h2 alift="left">🎉 GitHub Code View</h2>
