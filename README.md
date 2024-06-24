@@ -66,8 +66,8 @@
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
 
 <h1>💻Github Log</h1>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/nicejmp1"/>
+<a href="https://github.com/devxb/gitanimals" >
+  <img width = 900 src="https://render.gitanimals.org/farms/nicejmp1"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
