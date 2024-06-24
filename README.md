@@ -15,7 +15,7 @@
   <a href="https://nicejmp1.github.io/"><img src="https://img.shields.io/badge/Githubblog-181717?style=for-the-badge&logo=github&logoColor=white"></a></div>
   
 <h2 alifn="left"> 📁 2024.03.18 ~ ing 📁 </h2>
-[메인페이지] : (https://nicejmp1.github.io/class2024/)<br><br>
+<span>[메인페이지] : (https://nicejmp1.github.io/class2024/)<p> </p> <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/> </span><br><br>
 [자바스크립트] (https://nicejmp1.github.io/class2024/javascript/index.html)<br><br>
 [MySQL] (https://nicejmp1.github.io/class2024/mysql/index.html) <br><br>
 [퀴즈게임] (https://nicejmp1.github.io/class2024/quiz/index.html) <br><br>
