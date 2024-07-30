@@ -28,9 +28,7 @@
 
 <h2 alift="left">🎉 PROJECTS</h2>
 <span> [PHP - 마라톤 대회 일정 커뮤니티 사이트]: (https://github.com/nicejmp1/Way-Run-Meaning) </span>  <br><br>
-<span> [React - 치킨 브랜드 모음 사이트] : (https://chiken-nine.vercel.app/) </span><br>
-<img alt="React" src= "https://img.shields.io/badge/React-2023/2A?style=for-the-badge&logo=react&logoColor=61DAFB"  height="25px" />
-
+<span> [React - 치킨 브랜드 모음 사이트] : (https://chiken-nine.vercel.app/) </span> <br> <br>
 <span> [youtubeAPI 1] : (https://playlistyoutube.netlify.app) </span> <br><br>
 <span> [youtubeAPI 2] : (https://musicchart.netlify.app/)</span> <br><br>
 <span> [Vue_Movie] : (https://movie-world-list.netlify.app/)</span> <br><br>
